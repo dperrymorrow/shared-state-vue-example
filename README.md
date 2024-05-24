@@ -110,5 +110,3 @@ export default {
 };
 </script>
 ```
-
-You can see the full example [on Github](https://github.com/dperrymorrow/shared-state-vue-example) and view the code here
